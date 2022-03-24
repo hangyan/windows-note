@@ -6,3 +6,4 @@ windows env setup notes
 
 1. ifconfig: `ipconfig`
 2. htop: https://github.com/gsass1/NTop
+3. terminal: tabby hyper
